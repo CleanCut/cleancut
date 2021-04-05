@@ -21,7 +21,7 @@ Author of [Rusty Engine], Rust programming [instructor], open source maintainer,
 
 # 💖 Show Your Support 
 
-If you would like to support me, you can do so via [GitHub Sponsors] or [Patreon]._  
+If you would like to support me, you can do so via [GitHub Sponsors] or [Patreon].
 
 [Amethyst]: https://amethyst.rs/
 [Bevy Template]: https://github.com/cleancut/bevy_template
