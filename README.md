@@ -17,7 +17,7 @@ Author of [Rusty Engine], Rust programming [instructor], open source maintainer,
 - [Amethyst] - One of the first general-purpose 2D/3D game engines in Rust.
 - [Bevy] - A refreshingly simple data-driven game engine built in Rust.
 - [SkipNGo] -  A 2D game engine focused on retro top down games
-...and [many more]
+- ...and [many more]
 
 # 💖 Show Your Support 
 
