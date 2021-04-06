@@ -8,7 +8,7 @@ Author of [Rusty Engine], Rust programming [instructor], open source maintainer,
 - [Rusty Engine] - 2D game engine for learning Rust
 - [Bevy Template] - An opinionated Bevy project template with a configuration script to run for the more complex parts (like setting up the fast-compile setup).
 - [Ultimate Rust Crash Course] - Exercises for my (for-pay) course of the same name on Udemy
-- [Green] (maintainer) - a clean, colorful, fast Python test runner.
+- [Green] - a clean, colorful, fast Python test runner.
 - [Invaders] - "Space Invaders" clone...in the terminal
 - [Rusty Sword] - Conquer monsters in your terminal with your rusty sword
 - [Punch Ball] - Punch your opponents out of the arena
