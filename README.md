@@ -1,3 +1,5 @@
+![Nathan Stocks - software engineer, educator, game developer](./img/GitHubReadmeBanner.png)
+
 # Hi! I'm Nathan Stocks 👨🏻‍💻 👾 🎮 
 
 I am a passionate Rustacean and author of [Rusty Engine], a Rust programming [instructor], open source maintainer, indie game developer, and Senior Software Engineer at GitHub. 
