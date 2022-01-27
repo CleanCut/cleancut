@@ -2,7 +2,7 @@
 
 I use Go at my day job. Here's some random stuff I want to remember.
 
-- Never use bare `return` keywords with a function that returns values. Bare `return`s force you to run the whole function in your head to figure out what's being returned, and humans are terrible at that.
+- Never use bare (aka naked) `return` keywords with a function that returns values. Bare `return`s force you to run the whole function in your head to figure out what's being returned, and humans are terrible at that.
 - Put the type on every function parameter, it's clearer: `func(id int, iterations int)`, not `func(id, iterations int)`
 - Don't use `goto` except to break out of (or continue) a nested loop, and that should be exceedingly rare.
 - Always use the company `GOPROXY` if you're doing work stuff.
@@ -24,3 +24,5 @@ I use Go at my day job. Here's some random stuff I want to remember.
 - Make a `packagename_test.go` file in the same directory for integration tests, but it will be `package packagename_test` and you'll have to `import full/path/to/package`
 - Use `cmp.Diff` and `cmp.Comparer` from the `github.com/google/go-cmp/cmp` package to compare structs, maps, and slices in tests.
 - Use `errors.Is` and `errors.As` to check error types
+- Use `reflect.DeepEqual` for comparing maps and slices
+- Interface values are wide pointers. If both pointers are `nil`, then the interface value is `nil`, but if the interface value is a `nil` of some type (the type pointer is not `nil`), then the interface _value_ is not `nil`. This is why code that uses interface values should be written so it works with `nil` values...because it's hard to tell if the interface's value (via the value pointer) is `nil` or not. (The only way is through reflection).
