@@ -36,7 +36,7 @@ I also contribute to various open source projects that I use, with the most nota
 
 # 💖 Show Your Support 
 
-If you would like to support me, you can do so via [GitHub Sponsors].
+If you would like to support me, you can do so via [GitHub Sponsors] or [Patreon]
 
 [Patreon]: https://www.patreon.com/nathanstocks
 [GitHub Sponsors]: https://github.com/sponsors/CleanCut
