@@ -8,7 +8,6 @@
 
 - [Rusty Engine] - 2D game engine for learning Rust
 - [headtail] - A command-line utility which combines the functionality of the classic `head` and `tail` utilities
-- [bevy_rapier2d_assets] - A plugin for Bevy to make it easy to create & load files with physics assets information such as colliders
 - [Ultimate Rust Crash Course] - Open source exercises for [my course on Udemy]
 - [Ultimate Rust 2] - Open source exercises for [my other course on Udemy]
 - [Invaders] - "Space Invaders" clone...in the terminal
@@ -17,6 +16,7 @@
 
 # ✨ Notable Projects I Contribute To
 
+- [Oxen-AI/Oxen] - Lightning fast data version control system for structured and unstructured machine learning datasets. 
 - [Rust] - The awesome systems programming language
 - [Bevy] - A refreshingly simple data-driven game engine built in Rust
 
