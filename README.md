@@ -2,7 +2,7 @@
 
 # Hi! I'm Nathan Stocks 👨🏻‍💻 👾 🎮 
 
-⚙️ I love Rust! I am a Rust programming [instructor], the author of [Rusty Engine], an open source maintainer, an indie game developer, and a Senior Software Engineer at GitHub.
+⚙️ I love Rust! I am a Rust programming [instructor], the author of [Rusty Engine], an open source maintainer, an indie game developer, and a Senior Software Engineer at [Oxen.ai].
 
 # 🚀 My Open Source Projects 
 
@@ -16,7 +16,7 @@
 
 # ✨ Notable Projects I Contribute To
 
-- [Oxen-AI/Oxen] - Lightning fast data version control system for structured and unstructured machine learning datasets. 
+- [Oxen] - Lightning fast data version control system for structured and unstructured machine learning datasets. 
 - [Rust] - The awesome systems programming language
 - [Bevy] - A refreshingly simple data-driven game engine built in Rust
 
@@ -37,6 +37,8 @@
 [Rusty Sword]: https://github.com/CleanCut/rusty_sword/
 [Patreon]: https://www.patreon.com/nathanstocks
 [instructor]: https://agileperception.com
+[Oxen]: http://github.com/Oxen-AI/Oxen/
+[Oxen.ai]: https://oxen.ai
 
 # 💖 Show Your Support 
 
